@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-├── frontend
-├── src
-│    └── Components (componentes que serão compartilhados por diferentes páginas)
-|           └── ComponentsCSS (Estilização de cada componente)
+<p>├── frontend</p>
+<p>├── src</p>
+<p>│    └── Components (componentes que serão compartilhados por diferentes páginas)</p>
+<p>|           └── ComponentsCSS (Estilização de cada componente)<p>
 |                   └── topMenu.css
 |                   └── productsCard.css
 │           └── topMenu.jsx
