@@ -7,7 +7,7 @@ Tenho um grande apego pelo *Front-end* e por isso busco cada vez mais *me aperfe
 
 Linguagens e ferramentas:
 
-<code><img height="22" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/html.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/html.png"></code>/
 <code><img height="22" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/css.jpeg"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/js.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/redux.png"></code>
