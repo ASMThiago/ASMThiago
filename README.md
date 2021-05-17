@@ -6,7 +6,6 @@ Meu nome é Thiago Santos, transitei por um longo periodo a área da comunicaç�
 Tenho um grande apego pelo Front-end e por isso busco cada vez mais me aperfeiçoar cada vez mais nesta área, mas como todo bom programador, estamos abertos a todos os desafios, por isso você pode conferir um pouco mais sobre as minhas hábilidades.
 
 Linguagens e ferramentas:
-![Alt text](https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png width=100x20)
 <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js." alt="drawing" width="200"/>
 
 <!--
