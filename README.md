@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-Meu nome é Thiago Santos, transitei por um longo periodo a área da comunicação social, trabalhando Publicidade e Jornalismo. Porém, hoje, não consigo me ver de outra forma que não um desenvolvedor. Hoje posso me considerar um Desenvolvedor Full-Stack, mas ainda tenho muito pela frente e busco adquirir cada vez mais conhecimento.
+Meu nome é Thiago Santos, transitei por um longo periodo a área da comunicação social, trabalhando Publicidade e Jornalismo. Porém, hoje, não consigo me ver de outra forma que não um *desenvolvedor*. Hoje posso me considerar um *Desenvolvedor Full-Stack*, mas ainda tenho muito pela frente e busco *adquirir cada vez mais conhecimento*.
 
-Tenho um grande apego pelo Front-end e por isso busco cada vez mais me aperfeiçoar cada vez mais nesta área, mas como todo bom programador, estamos abertos a todos os desafios, por isso você pode conferir um pouco mais sobre as minhas hábilidades.
+Tenho um grande apego pelo *Front-end* e por isso busco cada vez mais *me aperfeiçoar cada vez mais* nesta área, mas como todo bom programador, estou *aberto a todos os desafios*, por isso você pode conferir um pouco mais sobre as minhas hábilidades.
 
 Linguagens e ferramentas:
 
@@ -26,9 +26,9 @@ Linguagens e ferramentas:
 
 - 📫 Como me contactar:
 
-  <a href="https://www.linkedin.com/in/pedro-henrique-tofani-ferreira/">
-    <img align="left" alt="PedroLinkedIn" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/linkedIn.png" />
+  <a href="https://www.linkedin.com/in/thiago-a-santos/">
+    <img align="left" alt="thiagoLinkedIn" width="30px" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/linkedIn.png" />
   </a>
-  <a href="mailto:ph.tofani@gmail.com">
-    <img align="left" alt="PedroGmail" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/gmail.png" />
+  <a href="mailto:asm.thiago@gmail.com">
+    <img align="left" alt="thiagoGmail" width="30px" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/gmail.png" />
   </a>
