@@ -7,16 +7,16 @@ Tenho um grande apego pelo *Front-end* e por isso busco cada vez mais *me aperfe
 
 Linguagens e ferramentas:
 
-<code><img height="22" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/html.png"></code>/
+<code><img height="22" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/html.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/css.jpeg"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/js.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/react.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/jest.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/mongo.jpeg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/node.jpeg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/pup.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/pup.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/python.jpeg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ASMThiago/ASMThiago/master/images/terminal.png"></code>
